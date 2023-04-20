@@ -1,0 +1,11 @@
+C:\Users\dragan\source\repos\MandelbrotSet\MandelbrotSet\bin\Debug\MandelbrotSet.exe.config
+C:\Users\dragan\source\repos\MandelbrotSet\MandelbrotSet\bin\Debug\MandelbrotSet.exe
+C:\Users\dragan\source\repos\MandelbrotSet\MandelbrotSet\bin\Debug\MandelbrotSet.pdb
+C:\Users\dragan\source\repos\MandelbrotSet\MandelbrotSet\obj\Debug\MandelbrotSet.Properties.Resources.resources
+C:\Users\dragan\source\repos\MandelbrotSet\MandelbrotSet\obj\Debug\MandelbrotSet.csproj.GenerateResource.cache
+C:\Users\dragan\source\repos\MandelbrotSet\MandelbrotSet\obj\Debug\MandelbrotSet.csproj.CoreCompileInputs.cache
+C:\Users\dragan\source\repos\MandelbrotSet\MandelbrotSet\obj\Debug\MandelbrotSet.exe
+C:\Users\dragan\source\repos\MandelbrotSet\MandelbrotSet\obj\Debug\MandelbrotSet.pdb
+C:\Users\dragan\source\repos\MandelbrotSet\MandelbrotSet\obj\Debug\MandelbrotSet.MandelbrotSetForm.resources
+C:\Users\dragan\source\repos\MandelbrotSet\MandelbrotSet\obj\Debug\MandelbrotSet.csproj.AssemblyReference.cache
+C:\Users\dragan\source\repos\MandelbrotSet\MandelbrotSet\obj\Debug\MandelbrotSet.csproj.SuggestedBindingRedirects.cache
